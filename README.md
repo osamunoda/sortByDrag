@@ -1,2 +1,2 @@
 # sortByDrag
-(Requirement) Mac Sierra~ FileMaker ver15~
+Requirement: Mac Sierra~ FileMaker ver15~
