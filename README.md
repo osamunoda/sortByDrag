@@ -14,3 +14,5 @@ ver 0.5: update to be more practical
 3.scrollable on iOS
 4.3D touch action is implemented on iPhone.
 (alternative to LinkButton)
+
+ver 0.6: Single Row / Horizontal Scroll
