@@ -16,3 +16,5 @@ ver 0.5: update to be more practical
 (alternative to LinkButton)
 
 ver 0.6: Single Row / Horizontal Scroll
+
+ver 0.7: fixed for Safari 11.1~ passive mode
