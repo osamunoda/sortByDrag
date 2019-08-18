@@ -18,3 +18,8 @@ ver 0.5: update to be more practical
 ver 0.6: Single Row / Horizontal Scroll
 
 ver 0.7: fixed for Safari 11.1~ passive mode
+
+2019-08-19 SortByDrag is moved here.
+https://github.com/osamunoda/SortByDrag3
+
+All the code is re-written in typescript. Easy integration GUI tool (html file) is added.
